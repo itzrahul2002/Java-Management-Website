@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:/Users/RAHUL THAKUR/IdeaProjects/UserManagement/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="C:/Users/RAHUL THAKUR/IdeaProjects/UserManagement/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="C:/Users/RAHUL THAKUR/Editor Files/mysql-connector-java-8.0.28.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/mysql-connector-java-8.0.28.jar"/>
+  </Resources>
+</Context>
